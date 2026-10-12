@@ -10,3 +10,5 @@ composer require previousnext/pnx_ds_mixtape
 [![Latest Stable Version](https://poser.pugx.org/previousnext/pnx_ds_mixtape/v)](https://packagist.org/packages/previousnext/pnx_ds_mixtape)
 [![Total Downloads](https://poser.pugx.org/previousnext/pnx_ds_mixtape/downloads)](https://packagist.org/packages/previousnext/pnx_ds_mixtape)
 [![License](https://poser.pugx.org/previousnext/pnx_ds_mixtape/license)](https://packagist.org/packages/previousnext/pnx_ds_mixtape)
+
+[Documentation](https://previousnext.github.io/interchangeable-ds/mixtape/) is available for the Mixtape design system.
